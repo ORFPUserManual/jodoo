@@ -3017,7 +3017,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgb(255, 255, 255);
+				background: #2cbd7a;
 				content: '';
 				display: block;
 				height: 100%;
@@ -3059,11 +3059,11 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: #23915d;
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
+			background-color: #165f3d;
 		}
 
 		.spotlights > section.inactive > .image:before,
